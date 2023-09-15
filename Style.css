@@ -9,3 +9,6 @@
     flex-direction: row;
     flex-wrap: wrap-reverse;
 }
+body {
+    background-color: lavender;
+}
