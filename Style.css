@@ -1,0 +1,11 @@
+.child {
+    border: 2px solid black;
+    background-color: aqua;
+    width: 300px;
+}
+.parent {
+    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}
